@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yvdy5aHtJ9k=",
+  "success": true,
+  "projectFilePath": "C:\\Trabajo\\PruebasAcceso\\CodeChallengeEDM1_2025\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anato\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.1\\microsoft.extensions.configuration.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.1\\microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.1\\microsoft.extensions.configuration.binder.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.1\\microsoft.extensions.configuration.fileextensions.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.1\\microsoft.extensions.configuration.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.1\\microsoft.extensions.fileproviders.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.1\\microsoft.extensions.fileproviders.physical.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.1\\microsoft.extensions.filesystemglobbing.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.5.2\\microsoft.testing.extensions.telemetry.1.5.2.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.5.2\\microsoft.testing.extensions.trxreport.abstractions.1.5.2.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.5.2\\microsoft.testing.extensions.vstestbridge.1.5.2.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.testing.platform\\1.5.2\\microsoft.testing.platform.1.5.2.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.5.2\\microsoft.testing.platform.msbuild.1.5.2.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.12.0\\microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\mstest.analyzers\\3.7.2\\mstest.analyzers.3.7.2.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\mstest.testadapter\\3.7.2\\mstest.testadapter.3.7.2.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\mstest.testframework\\3.7.2\\mstest.testframework.3.7.2.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\system.io.pipelines\\9.0.1\\system.io.pipelines.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\system.text.encodings.web\\9.0.1\\system.text.encodings.web.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\xunit\\1.7.0.1540\\xunit.1.7.0.1540.nupkg.sha512",
+    "C:\\Users\\anato\\.nuget\\packages\\xunit.runner.visualstudio\\3.0.1\\xunit.runner.visualstudio.3.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'xunit 1.7.0.1540' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "xunit",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
